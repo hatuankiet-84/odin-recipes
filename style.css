@@ -1,0 +1,35 @@
+.general {
+    background-color: lightslategray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    position: absolute;
+    margin: 0;
+}
+
+.general .header {
+    background: white;
+    margin: auto;
+    border-style: solid;
+    margin-bottom: 10px;
+    height: 50px;
+    line-height: 10px;
+}
+
+.img {
+    display: block;
+    width: 100%;
+}
+
+.recipes-section {
+    background-color: white;
+    border-style: solid;
+    padding: 10px;
+    margin: auto;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.text-right {
+    text-align: right;
+}
